@@ -1,1 +1,1 @@
-<?php include_once("SchemaEvaluator_pre_computed_data/schema_evaluator_report.html"); ?>
+<?php include_once("schema_evaluator_report.html"); ?>
